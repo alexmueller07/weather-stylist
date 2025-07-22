@@ -1,6 +1,6 @@
 # Daily Weather Stylist 🌤️👔
 
-https://daily-weather-stylist.vercel.app/
+https://weatherstylist.com
 A beautiful, full-featured web application that provides personalized daily weather updates and clothing recommendations delivered via email at 5am local time.
 
 ## ✨ Features
