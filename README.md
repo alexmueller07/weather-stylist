@@ -12,6 +12,12 @@ A beautiful, full-featured web application that provides personalized daily weat
 - **Daily Email Automation**: Scheduled emails at 5am in user's local timezone
 - **Production-Ready Backend**: Supabase database with edge functions for email automation
 
+---
+
+<img width="1919" height="1072" alt="Screenshot 2025-07-27 103849" src="https://github.com/user-attachments/assets/1e02b216-7a37-4ca0-98c7-8a4372bfcc4e" />
+
+---
+
 ## 🚀 Getting Started
 
 ### Prerequisites
